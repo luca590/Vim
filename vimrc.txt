@@ -16,7 +16,9 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 endif
 
 call plug#begin('~/.vim/plugged')
+
 Plug 'elixir-editors/vim-elixir'	"elixir vim plugin
+Plug 'tomlion/vim-solidity'		"solidity vim plugin
 
 call plug#end()
 

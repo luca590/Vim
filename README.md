@@ -6,3 +6,4 @@ Autoloading: http://learnvimscriptthehardway.stevelosh.com/chapters/53.html
 
 Current plugins used:
 Elixir - https://github.com/elixir-editors/vim-elixir
+Solidity - https://github.com/tomlion/vim-solidity
