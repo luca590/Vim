@@ -22,5 +22,3 @@ Plug 'tomlion/vim-solidity'		"solidity vim plugin
 
 call plug#end()
 
-
-
