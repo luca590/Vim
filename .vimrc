@@ -19,6 +19,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'elixir-editors/vim-elixir'	"elixir vim plugin
 Plug 'tomlion/vim-solidity'		"solidity vim plugin
+Plug 'vim-scripts/c.vim'
 
 call plug#end()
 
