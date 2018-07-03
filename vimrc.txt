@@ -3,11 +3,8 @@ set hlsearch
 set incsearch
 
 set showmatch
-set enc=utf-8
-set fenc=utf-8
-set termencoding=utf-8 
-"set smartindent
-"set autoindent
+set smartindent
+set autoindent
 syntax on
 colorscheme desert
 
