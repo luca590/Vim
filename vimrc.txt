@@ -14,6 +14,7 @@ colorscheme desert
 autocmd InsertEnter * :set number
 autocmd InsertLeave * :set relativenumber
 set tabstop=4
+set shiftwidth=4
 imap jj <esc>
 nnoremap S <C-W><C-W>
 
@@ -27,8 +28,11 @@ endif
 call plug#begin('~/.vim/plugged')
 
 Plug 'elixir-editors/vim-elixir'	"elixir vim plugin
+Plug 'slashmili/alchemist.vim'		"elixir autocomplete
 Plug 'tomlion/vim-solidity'		"solidity vim plugin
-"Plug 'vim-scripts/c.vim'		"C plugin
+Plug 'vim-scripts/c.vim'		"C plugin
+Plug 'pangloss/vim-javascript'	"Javascript plugin
+Plug 'rust-lang/rust.vim'		"Rust plugin
 
 call plug#end()
 
