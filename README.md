@@ -8,3 +8,4 @@ Python - none <br />
 Rust - none <br />
 Elixir - https://github.com/elixir-editors/vim-elixir  
 Solidity - https://github.com/tomlion/vim-solidity<br />
+MIPS (lol)<br />
